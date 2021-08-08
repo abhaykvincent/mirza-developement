@@ -8,3 +8,4 @@ Structure
     body
         .header
         section
+        footer
