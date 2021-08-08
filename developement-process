@@ -10,5 +10,8 @@ Structure
         section
          .hero
          .feature-images
-         .fashion-meets-design
+         .fashion-meets-design-i
+         .fashion
+         .design
+         .fashion-meets-design-ii
         footer
